@@ -1,4 +1,4 @@
-# WordPress Learning – rtCamp
+# WordPress Learning
 
 This repository contains my WordPress learning work.
 
